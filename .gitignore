@@ -1,0 +1,13 @@
+# Java
+*.class
+*.jar
+*.log
+/out/
+/target/
+/.idea/
+*.iml
+
+# Autres
+*.fig
+*.pdf
+*.docx
