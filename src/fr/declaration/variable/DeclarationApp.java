@@ -11,6 +11,7 @@ public class DeclarationApp {
         long d = 1000000;
 
         float e = 52.68F;
+        float ebis = 2.1E-3F;
 
         double f = 122222222;
 
@@ -25,5 +26,7 @@ public class DeclarationApp {
         String randomString = "Voici le résultat d’un calcul : \n1+5=6";
 
         System.out.println(randomString);
+
+        // double > float > long > int > short > byte
     }
 }
